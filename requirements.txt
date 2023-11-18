@@ -2,3 +2,4 @@ apache-airflow-providers-mongo
 mongoengine~=0.27.0
 tzdata
 pymongo~=4.5.0
+webdavclient3
